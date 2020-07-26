@@ -2,6 +2,7 @@ import java.util.*;
 
 public class Task2 {
     public static void main(String[] args) {
+        //change address in according your pc
         String s = "E:\\implemica_test\\src\\text.txt";
         DocumentParser parser = new DocumentParser();
         parser.parseDocument(s);
